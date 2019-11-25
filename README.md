@@ -2,7 +2,9 @@
 Simple Ransomeware Technique in C++
 
 This is a simple technique to implement a ransomware in C++
+
 Compiled on visual studio 2012
+
 Tested on windows 7
 
 How it works?
